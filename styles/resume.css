@@ -1,0 +1,56 @@
+header{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
+
+
+.italictxt{
+	font-style: italic;
+	font-weight: lighter;
+}
+body{
+	background-color: rgb(32,32,32);
+}
+
+.container {
+
+	border: darkgrey solid;
+	color: white;
+	padding: 35px;
+	font-family: helvetica;
+	line-height: 1.5;
+	width: 60%;
+	margin: 0 auto;
+}
+
+section, p{
+	font-weight: 250;
+	font-size: 90%;
+}
+
+hr{
+	opacity: .25%
+
+}
+
+.navdefault{
+	color: mediumseagreen;
+	font-weight: 900;
+
+}
+
+.navmod{
+	color: white;
+	font-weight: 900;
+}
+
+.secttwostyle {
+	color: grey;
+}
+
+.secttwostyle2{
+	color: white;
+}

@@ -1,0 +1,67 @@
+header{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
+
+.clearfix:after { 
+	content:"";
+	display: block;
+	clear: both;
+
+}
+
+.italictxt{
+	font-style: italic;
+	font-weight: lighter;
+}
+
+body {
+	background-color: rgb(32,32,32);
+}
+
+.container {
+	border: darkgrey solid;
+	color: white;
+	padding: 35px;
+	font-family: helvetica;
+	line-height: 1.5;
+	width: 60%;
+	margin: 0 auto;
+}
+
+article{
+	font-weight: 250;
+	font-size: 90%;
+}
+
+hr{
+	opacity: .25%;
+
+}
+
+.navdefault{
+	color: mediumseagreen;
+	font-weight: 900;
+
+}
+
+.navmod{
+	color: white;
+	font-weight: 900;
+}
+
+img {
+	box-sizing: border-box;
+	border: white solid;
+	border-width: 1px;
+	padding: 5px;
+	float: right;
+	margin: 10px;
+	height: 225px;
+	width: 200px;
+
+}
+
